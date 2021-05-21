@@ -1,6 +1,5 @@
 # Python-Blackajck
-Blackjack game created for Semester 1 assignment (Python)
-Blackjack game created for an open-ended assignment.  
+Blackjack game created for Semester 1 open ended assignment (Python)  
 Instructions are:  
 User enters "h" or "hit" in order to hit and take another card or  
 User enters "s" or "stand" in order to stand and stop taking any more cards  
