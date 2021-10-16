@@ -1,5 +1,4 @@
 # Karan Heir
-# ID: 501048458
 # Code below simply recreates a simplified version of Blackjack
 # In the simplified version, the card's are pulled from an infinetely large deck with no faces.
 # The only actions the player or computer can take are to hit or stand, and there is also no gambling in this version.
