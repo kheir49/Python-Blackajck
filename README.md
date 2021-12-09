@@ -1,5 +1,5 @@
 # Python-Blackajck
-Blackjack game created for Semester 1 open ended assignment (Python)  
+Simplified Blackjack game created in Python. No betting system implemented.
 Instructions are:  
 User enters "h" or "hit" in order to hit and take another card or  
 User enters "s" or "stand" in order to stand and stop taking any more cards  
